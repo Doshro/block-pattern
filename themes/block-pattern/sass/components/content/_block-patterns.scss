@@ -1,0 +1,334 @@
+
+
+.site-header, 
+.entry-header{
+    display: none;
+}
+
+    .entry-content{
+        background-color: #ffffff;
+    
+    // block one styling
+    
+
+.hero-cover-image{
+    height: 800px;
+    width: 100%;
+    
+    .hero-header{
+        font-size: 80px;
+        margin-top: 400px;
+    }
+    .hero-text{
+        font-size: 20px;
+    }
+    
+}
+    
+
+// block two styling
+
+.wp-container-4{
+    .wp-block-image{
+        img{
+            height: 600px;
+            width: 800px;
+            padding: 50px 0px 30px 70px;
+        }
+        
+    }
+    .wp-container-3{
+        padding-top: 60px;
+        p{
+            padding-right: 220px;
+        }
+    }
+}
+
+// block theree styling
+
+.wp-container-11{
+    gap: 0;
+    .wp-block-cover{
+        height: 550px;
+    }
+    .wp-container-6{
+        .wp-block-cover{
+            padding-top: 300px;
+
+            h2{
+                margin-bottom: 0px;
+            }
+            
+        }
+    }
+
+    .wp-container-8{
+        .wp-block-cover{
+            padding-top: 300px;
+
+            h2{
+                margin-bottom: -20px;
+            }
+
+            p{
+                padding-top: 30px;
+        
+            }
+        }
+    }
+
+    .wp-container-10{
+        .wp-block-cover{
+            padding-bottom: 300px;
+        }
+    }
+}
+
+// Block four styling
+
+.wp-container-20{
+    margin-top: -30px;
+    padding: 60px 150px;
+
+    .wp-container-16, .wp-container-19{
+        p{
+            padding: 0px 0px 0px 110px;
+            margin-top: 0px;
+        }
+    }
+}
+
+// Block five styling
+
+.wp-container-24{
+    margin-bottom: 0px;
+    gap: 0em;
+
+    .wp-block-cover{
+        height: 500px;
+
+        p{
+            position: relative;
+            top: 150px;
+        }
+    }
+}
+
+// Block six styling
+
+.wp-container-28{
+    margin-bottom: -30px;
+    .wp-block-cover{
+        height: 500px;
+        
+    }
+    p{
+        padding-right: 90px;
+    }
+    .wp-container-27{
+        padding: 0px;
+
+        .wp-container-26{
+            padding-top: 40px;
+        }
+    }
+}
+
+
+// Block seven styling
+.wp-container-36{
+    height: 250px;
+    .wp-container-34{
+        padding: 100px ;
+    }
+}
+
+// Block eight styling
+
+.wp-container-38{
+    padding: 30px 0px 80px 0px;
+}
+
+// Block nine styling
+
+.block9-container{
+    height: 650px;
+
+    .wp-container-42{
+        padding: 70px 200px 50px 200px;
+
+        figcaption{
+            text-align: center;
+        }
+    }
+}
+
+// Block ten styling
+.wp-container-46{
+    .wp-block-image{
+        padding: 50px 0px 30px 70px;
+    }
+
+    .wp-container-45{
+        padding-top: 70px;
+
+        .block10-secondpara{
+            padding-right: 120px;
+        }
+    }
+}
+
+.wp-container-72{
+    padding: 50px 90px;
+    
+
+    p{
+        padding-left: 65px;
+        margin-top: 0px;
+    }
+}
+    
+        
+
+
+
+// // block three and block five gap betewwn the images removed
+// .wp-container-8, .wp-container-21{
+// gap: 0 !important;
+// }
+
+// // block three styling
+// div.wp-container-7{
+//     .wp-block-cover{
+//         align-items: flex-start;
+        
+//     }
+// }
+
+
+// .wp-container-5{
+//     .wp-block-cover{
+//         align-items: flex-end;
+//     }
+// }
+// .wp-container-3{
+//     .wp-block-cover{
+//         align-items: flex-end;
+//     }
+// }
+// .wp-container-2{
+//     .block3-heading1{
+//         margin-bottom: 30px;
+//     }
+// }
+
+// // block four styling
+// .wp-container-17_
+// .wp-block-media-text{
+
+
+
+// // block five styling
+    
+//     .wp-container-18{
+//         .wp-block-cover{
+//         align-items: flex-end;
+//     }
+//     }
+
+//     .wp-container-19{
+//         .wp-block-cover{
+//         align-items: flex-end;
+//     }
+//     }
+
+//     .wp-container-20{
+//         .wp-block-cover{
+//         align-items: flex-end;
+//     }
+//     }
+
+//     .wp-container-20{
+        
+//         margin-bottom: 0px;
+//     }
+
+
+
+
+
+//     // block six style
+//     .wp-container-24{
+       
+//     .wp-container-23{
+//         padding-top: 0px !important;
+//         padding-left: 0px;
+//     } 
+//     .wp-container-22{
+//         padding: 50px 50px 10px 50px;
+
+//         }
+// }
+
+//     // Block seven styling
+
+// .wp-container-30 {
+//     height: 150px;
+//     position: relative;
+//     justify-content: space-around !important;
+// }
+
+
+// // Block eight styling
+
+// .wp-container-34{
+//     padding-top: 40px;
+// }
+
+//     // Block nine styling
+//     .wp-container-38 {
+//         padding: 80px 150px;
+//         figcaption{
+//             text-align: center;
+//         }
+
+//         }
+
+//     .block9-container{
+//         height: 600px;
+//         padding-top: 50px;
+//         margin-top: 50px;
+        
+//     }
+
+//     // Block ten styling
+//     .wp-container-39{
+    
+//         padding: 200px;
+//         padding-top: 50px;
+//     }
+    
+//     .wp-container-41{
+//         padding: 70px 170px 0px 0px;
+//     }
+// }
+    }
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
